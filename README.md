@@ -29,3 +29,5 @@ Buildings from OSM
 Participatory mapping
 
 # Results
+
+Table showing OSM roads and buildings that are within the flood extent
