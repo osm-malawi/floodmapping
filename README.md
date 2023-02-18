@@ -21,6 +21,7 @@ For development of solutions locations that have high likelihood of being expose
 Description
 
 ![](graphics/workflow.png)
+
 Figure 1. Workflow for generation of flood extent maps
 SARS Data
 Using Digital Earth Africa Sandbox
