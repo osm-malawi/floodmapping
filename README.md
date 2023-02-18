@@ -18,7 +18,10 @@ For development of solutions locations that have high likelihood of being expose
 #Create a map of the study districts based on classified topographical map of southern Malawi
 
 # Mapping of flood extent
+Description
 
+![](graphics/workflow.png)
+Figure 1. Workflow for generation of flood extent maps
 SARS Data
 Using Digital Earth Africa Sandbox
 
