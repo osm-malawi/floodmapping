@@ -20,6 +20,7 @@ The study targets Nsanje and Chikwawa districts in Southern Malawi. The study ar
 ![](graphics/AOI.png)
 
 #Create a map of the study districts based on classified topographical map of southern Malawi
+- Add all rivers
 
 # Mapping of flood extent
 Description
