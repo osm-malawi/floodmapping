@@ -13,8 +13,12 @@ For development of solutions locations that have high likelihood of being expose
 
 # Study Community
 
-- Chikwawa 
-- Nsanje
+The study targets Nsanje and Chikwawa districts in Southern Malawi. The study area has an elevation between 30 and 938 meters above sea level.  
+
+- Talk about low elevation, talk about local rivers in the districts including passerby (Shire River)
+
+![](graphics/AOI.png)
+
 #Create a map of the study districts based on classified topographical map of southern Malawi
 
 # Mapping of flood extent
