@@ -1,3 +1,6 @@
+# Collaborative High Impact Mapping Project
+
+
 # Background
 
 Large scale flooding in South-East Africa is a recurring challenge. 
