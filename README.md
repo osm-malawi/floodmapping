@@ -1,6 +1,5 @@
 # Collaborative High Impact Mapping Project
 
-
 ![TC image](https://github.com/Kalondepatrick/largescaleflooding/blob/main/graphics/DJI_0169_UNICEF.jpeg)
 
 
