@@ -11,7 +11,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 
 ### *MAPATHONS (NKHUNI) (LUANAR) (CHANCO)
 
-### *CAPASITY BUIDING 
+### *CAPACITY BUIDING 
 The study targets Nsanje and Chikwawa districts in Southern Malawi. The study area has an elevation between 30 and 938 meters above sea level.  
 
 - Talk about low elevation, talk about local rivers in the districts including passerby (Shire River)
