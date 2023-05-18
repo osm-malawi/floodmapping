@@ -9,7 +9,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 
 # PROJECT ACTIVITIES
 
-### MAPATHONS (NKHUNI) (LUANAR) (CHANCO)
+### *MAPATHONS (NKHUNI) (LUANAR) (CHANCO)
 
 # Study Community
 
