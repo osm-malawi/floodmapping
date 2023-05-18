@@ -14,10 +14,14 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/R.png" alt="drawing" width="200"/>
   
   </body>
+  
+  <body style="background-color:black;">
 
 [MORE](https://twitter.com/MalawiRedCross)
 
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/OSM.PNG" alt="drawing" width="200"/>
+  
+    </body>
 
 [MORE](https://twitter.com/OSMMalawi)
 
