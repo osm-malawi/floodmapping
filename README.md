@@ -8,8 +8,8 @@
 The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding by the Humanitarian OpenstreetMap Team (HOT) through the Eastern and Southern African Hub (ESA) to map the regions heavily impacted by Cyclone Ana, specifically Chikwawa and Nsanje. The project aims to produce geospatial data that will aid in disaster recovery and planning efforts. While, they are implementing the project another devastating cyclone Freddy has hit the same region. Malawi Red Cross with its consortium members organised sevral  events yet following its planned activities. 
 
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/R.png" alt="drawing" width="200"/>
-Lorem ipsum dolor sit amet.
-{% include button.html url="http://www.google.com" %}
+
+[Link text](URL)
 
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/OSM.PNG" alt="drawing" width="200"/>
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/nkhuni.jpg" alt="drawing" width="200"/>
