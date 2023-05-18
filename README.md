@@ -11,7 +11,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
   body {
     background-color: #336655;
   }
-
+</style>
 
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/R.png" alt="drawing" width="200"/>
 
@@ -25,7 +25,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 
 [MORE](https://https://www.nkhoma.ac.mw/index.php)
   
-  </style>
+  
 
 # PROJECT ACTIVITIES
 
