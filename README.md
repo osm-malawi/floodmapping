@@ -16,9 +16,9 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
   
 [MORE](https://twitter.com/MalawiRedCross)
 
+<h1> </h1> 
+
   <p>openstreet map malawi.</p>
-  
-  <h1> </h1> 
   
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/OSM.PNG" alt="drawing" width="200"/>
 
