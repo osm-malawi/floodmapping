@@ -9,7 +9,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 
 <style type="text/css">
   body {
-    background-color: #336655;
+    background-color: #B3FFBF;
   }
 </style>
 
