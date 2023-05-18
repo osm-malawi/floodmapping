@@ -10,9 +10,10 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
 <body style="background-color:powderblue;">
   <h1>This is a heading</h1>
   <p>This is a paragraph.</p>
-</body>
 
 <img src="https://github.com/osm-malawi/floodmapping/blob/main/graphics/R.png" alt="drawing" width="200"/>
+  
+  </body>
 
 [MORE](https://twitter.com/MalawiRedCross)
 
