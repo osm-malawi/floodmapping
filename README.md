@@ -1,6 +1,8 @@
 # Collaborative High Impact Mapping Project
 
 ![TC image](https://github.com/Kalondepatrick/largescaleflooding/blob/main/graphics/DJI_0169_UNICEF.jpeg)
+<img src="https://github.com/Kalondepatrick/largescaleflooding/blob/main/graphics/DJI_0169_UNICEF.jpeg" alt="drawing" width="200"/>
+
 
 
 *Credits: UNICEF Malawi/2022/HD Plus*
