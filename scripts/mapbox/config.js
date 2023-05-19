@@ -20,7 +20,7 @@
             hidden: false,
             title: 'Lilongwe University of Agriculture and NAtural Resources',
             image: 'images/luana.jpg',
-            description:'The first flooding in this particular community, there is no designated evacuation centre. However, during this flooding, affected communities settled/evacuated to one of  the nearby churches which is located on higher ground.They reported that the most notable challenges are Low food supplies/support, Marriage/family disconnection.',
+            description:'Rachael Kaunda  and Christine Mhone (both from OSM Malawi) took the initiative to organize a mapping event at Chancellor College, where they were able to map 1744 buildings, 18.88 kilometers of roads, and 9.2 kilometers of river line. However, there were a number of challenges encountered, including unstable internet activity, a large and unfocused mapping area, a lack of electricity, and difficulties printing the signing sheets that were assigned to each participant.',
             location: {
                 center: [33.770254, -14.183325],
                 zoom: 10.4,
@@ -50,7 +50,7 @@
             hidden: false,
             title: 'Nkhoma University',
             image: 'images/Nkhoma.jpg',
-            description:'The first flooding in this particular community, there is no designated evacuation centre. However, during this flooding, affected communities settled/evacuated to one of  the nearby churches which is located on higher ground.They reported that the most notable challenges are Low food supplies/support, Marriage/family disconnection.',
+            description:'Participants were able to:  to login on HOT website and open task manager and map project #14513 and were able to map roads and buildings. The participants managed to create 637 buildings and 18 roads were created of 15.5 km and they planned to continue mapping the project after the activity. We also had 17 females and 12 males which was more than the expected turn up and also high number of female participants. Most participants were busy with exams as they were closing the first half of the semester and they had to join the activity soon after they finished the exams, the other problem was internet connectivity whereby the internet had shut down for approximately 45 minutes and we managed to switch to different service providers.',
             location: {
                 center: [34.10626259672374, -14.037872304743676], 
                 zoom: 10.4,
@@ -80,7 +80,7 @@
             hidden: false,
             title: 'Chanco University',
             image: 'images/Chanco.jpg',
-            description:'The first flooding in this particular community, there is no designated evacuation centre. However, during this flooding, affected communities settled/evacuated to one of  the nearby churches which is located on higher ground.They reported that the most notable challenges are Low food supplies/support, Marriage/family disconnection.',
+            description:'Patrick Ken Kalonde & Blessings Chiepa (Both from Liverpool Welcome Programme and from OSM Malawi) Took a Lead in organizing mapping event at Chancellor College where they managed to map 2499 buildings,161.88 Kilometers of roads mapped: 8.51 kilometers of river line mapped during the activity internet activity was not stable, Mapping area was too large and lacked focus, There was no electricity and we found it challenging to print the signing sheets that were assigned to us by Red Cross, as such the facilitators arrived in Blantyre during odd hours (after 9 PM).',
             location: {
                 center: [35.33728019287816, -15.389368271134405],
                 zoom: 10.4,
@@ -110,7 +110,7 @@
             hidden: false,
             title: 'Malawi University of Science and Technology',
             image: 'images/Must.jpg',
-            description:'The first flooding in this particular community, there is no designated evacuation centre. However, during this flooding, affected communities settled/evacuated to one of  the nearby churches which is located on higher ground.They reported that the most notable challenges are Low food supplies/support, Marriage/family disconnection.',
+            description:'The project called for participants to map out buildings and major roads in Chikwawa. The number of buildings digitized cumulatively are 1,333 and 17 km worth of road length. A total of 12 participants attended the mapathon, with the following breakdown: The scheduling of the mapathon clashed with the school’s VC trophy activities, this led to less people being able to attend the mapathon. We had a couple of new mappers, meaning that some time was taken to train them on how to use OSM and accurately digitize the features of interest.',
             location: {
                 center: [35.21690014084476, -15.90174986456486],
                 zoom: 10.4,
