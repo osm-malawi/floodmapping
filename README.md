@@ -16,7 +16,7 @@ The Consortium of MRCs, OpenstreetMap Malawi, and Nkhoma University with funding
   
 [MORE](https://twitter.com/MalawiRedCross)
 
-<h1> </h1> 
+<h1>. </h1> 
 
   <p>openstreet map malawi.</p>
   
