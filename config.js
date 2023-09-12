@@ -18,7 +18,7 @@ var config = {
             id: 'Lilongwe',
             alignment: 'left',
             hidden: false,
-            title: 'Lilongwe University of Agriculture and NAtural Resources',
+            title: 'Lilongwe University of Agriculture and Natural Resources',
             image: 'images/luana.jpg',
             description:'Rachael Kaunda  and Christine Mhone (both from OSM Malawi) took the initiative to organize a mapping event at Chancellor College, where they were able to map 1744 buildings, 18.88 kilometers of roads, and 9.2 kilometers of river line. However, there were a number of challenges encountered, including unstable internet activity, a large and unfocused mapping area, a lack of electricity, and difficulties printing the signing sheets that were assigned to each participant.',
             location: {
