@@ -10,7 +10,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     title: 'ESA Hub Malawi Map Story',
-    subtitle: 'A story about FDGs that were conducted in Nsanje and Chikwawa',
+    subtitle: 'A story about FDGs that were conducted in Nsanje and hikwawa',
     byline: 'By ESA hub Malawi',
     footer: 'Malawi Red Cross Society - Nkhoma University - OSM Malawi.',
     chapters: [
